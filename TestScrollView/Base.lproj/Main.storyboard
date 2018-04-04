@@ -23,7 +23,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Lrm-BE-wVe">
-                                <rect key="frame" x="10" y="10" width="1024" height="768"/>
+                                <rect key="frame" x="454" y="150" width="1024" height="768"/>
                                 <subviews>
                                     <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hPL-BP-12q">
                                         <rect key="frame" x="0.0" y="10" width="1024" height="748"/>
@@ -77,9 +77,9 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="Lrm-BE-wVe" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-10" id="I2O-t0-KBr"/>
-                            <constraint firstAttribute="bottomMargin" secondItem="Lrm-BE-wVe" secondAttribute="bottom" constant="-10" id="YZY-Cf-zSH"/>
-                            <constraint firstItem="Lrm-BE-wVe" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="topMargin" constant="-10" id="slK-u4-pyC"/>
+                            <constraint firstItem="Lrm-BE-wVe" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="434" id="I2O-t0-KBr"/>
+                            <constraint firstAttribute="bottomMargin" secondItem="Lrm-BE-wVe" secondAttribute="bottom" constant="-150" id="YZY-Cf-zSH"/>
+                            <constraint firstItem="Lrm-BE-wVe" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="topMargin" constant="130" id="slK-u4-pyC"/>
                         </constraints>
                     </view>
                     <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
